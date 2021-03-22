@@ -24,14 +24,7 @@ function App() {
 
   return (
     <div className="App">
-      <input onKeyUp={onKeyUp} />
-      <button onClick={onSubmit}>Submit</button>
-
-      <br />
-      <br />
-
-      <span>{text}</span>
-      <button onClick={updateText}>Update</button>
+<a
     </div>
   );
 }
