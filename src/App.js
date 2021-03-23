@@ -22,11 +22,7 @@ function App() {
 
   console.log(text);
 
-  return (
-    <div className="App">
-<a
-    </div>
-  );
+  return <div className="App"></div>;
 }
 
 export default App;
